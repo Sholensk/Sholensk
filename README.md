@@ -1,4 +1,4 @@
-<h1>Hongos soy Vicio, Game Developer adictgo a los videojuegos y las historias llenas de vida.</h>
+<h1>Hongos soy Vicio, Game Developer adicto a los videojuegos y las historias llenas de vida.</h>
 
 <h3>
 Mis redes son:
