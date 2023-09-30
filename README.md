@@ -1,7 +1,7 @@
 ![Banner](/img/Banner.png)
 
 <h1> Hongos soy Vicio, Game Developer en desarrollo, he hecho un par de juegos que puedes probar en mi <a href="sholens.itch.io">Itch.io</a> 
-Adicto a los videojuegos, la musica y las historias llenas de vida.</h>
+Adicto a los videojuegos, la musica y las historias llenas de vida.</h>s
 
 <h3>
 Mis redes son:
